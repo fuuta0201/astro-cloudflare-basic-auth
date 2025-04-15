@@ -1,0 +1,5 @@
+name = "basic-auth-middleware"
+type = "javascript"
+main = "workers/index.js"
+
+compatibility_date = "2024-01-01"
